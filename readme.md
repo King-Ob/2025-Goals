@@ -214,6 +214,21 @@ Q1
 - Practice & understand security measures" i.e honeynets, honeypots, etc.  
 </details>
 
+
+<details>
+
+  <summary> Damilola's goals </summary>
+  
+---
+
+ Q1
+- Goal A- Completing ISC2 Cyber Security Course and Getting certified. 
+- Goal B- Writing the AWS Solutions Architect Certification Exam
+- Goal C- Completing Imram Khan's DevOps Beginners to Advanced with Projects course.
+
+</details>
+
+
 <details>
 
   <summary> Copy this sample block </summary>
